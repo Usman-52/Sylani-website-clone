@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+.navbar{
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+
+}
+.navbar p{
+    font-size: small;
+    padding: 0;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottom_nav{
+    padding: 8px 0px;
+}
+
+#sylani_logo{
+    height: 54px;
+    
+}
+
+
+
+
+
+/* #btn_primary{
+    background-color: #0d6db700;
+} */
