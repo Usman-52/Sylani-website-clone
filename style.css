@@ -5,19 +5,40 @@ body{
 }
 
 .navbar{
-    height: 40px;
+    height: 45px;
     padding: 0;
     margin: 0;
+    font-size: small;
     display: flex;
     flex-direction: row;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+     flex-wrap: wrap;
+     
+
 
 }
 .navbar p{
     font-size: small;
     padding: 0;
-    
-
 }
+
+.navbar .topnav1{
+    position: relative;
+    left: 10%;
+}
+
+.navbar .topnav2{
+    position: relative;
+    left: -10%;
+}
+
+.navbar .topnav3{
+    position: relative;
+    left: -25%;
+}
+
 
 
 
@@ -52,6 +73,7 @@ body{
 
 
 
-/* #btn_primary{
+.btn button{
     background-color: #0d6db700;
-} */
+
+}
